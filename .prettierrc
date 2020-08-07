@@ -1,0 +1,5 @@
+{
+	"printWidth": 145,
+	"trailingComma": "all",
+	"plugins": ["prettier-plugin-svelte"]
+}
